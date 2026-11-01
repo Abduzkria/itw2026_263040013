@@ -1,0 +1,23 @@
+      h1 {
+        font-family: arial, monospace;
+        text-align: center;
+        font-size: 30px;
+        color: lightblue;
+      }
+      .Dolar {
+        font-family: "Archivo Black", sans-serif;
+        color: black;
+      }
+      .Text-biru {
+        font-family: "Cinzel", serif;
+        color: blue;
+      }
+      .Miring {
+        font-style: italic;
+      }
+      #caps {
+        text-transform: uppercase;
+      }
+      #underline {
+        text-decoration: underline;
+      }
